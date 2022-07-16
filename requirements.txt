@@ -1,0 +1,10 @@
+opencv-python~=4.6.0.66
+matplotlib~=3.5.2
+sklearn~=0.0
+torch
+tensorflow~=2.9.1
+tensorflow-gpu~=2.9.1
+numpy~=1.23.1
+imutils~=0.5.4
+scikit-learn~=1.1.1
+keras~=2.9.0
