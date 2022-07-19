@@ -9,6 +9,7 @@
 !pip install numpy  
 
 !python /content/Handwriting-Text-Ocr-Recognition/build_model.py -a DATA_SET_PATH
+
 #you can download dataset from https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
 #example
